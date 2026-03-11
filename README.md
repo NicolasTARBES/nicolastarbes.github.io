@@ -13,3 +13,5 @@ Site web statique hébergé sur GitHub Pages.
 - Éditez les fichiers HTML pour le contenu
 - Modifiez `css/style.css` pour le style
 - Utilisez `js/script.js` pour les interactions
+
+Command édition en local du site : python -m http.server
